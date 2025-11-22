@@ -22,9 +22,9 @@
 # 📊 GitHub Metrics
 
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheMX1O1&theme=tokyonight" alt="streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=TheMX1O1&show_icons=true&theme=tokyonight&hide_rank=true" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheMX1O1&layout=compact&theme=tokyonight" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Why-MX&theme=tokyonight" alt="streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Why-MX&show_icons=true&theme=tokyonight&hide_rank=true" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Why-MX&layout=compact&theme=tokyonight" />
 </p>
 
 ---
